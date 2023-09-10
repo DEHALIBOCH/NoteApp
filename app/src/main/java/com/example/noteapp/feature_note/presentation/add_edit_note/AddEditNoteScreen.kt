@@ -1,7 +1,6 @@
 package com.example.noteapp.feature_note.presentation.add_edit_note
 
 import android.annotation.SuppressLint
-import android.widget.Space
 import androidx.compose.animation.Animatable
 import androidx.compose.animation.core.tween
 import androidx.compose.foundation.background
